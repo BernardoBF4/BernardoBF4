@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
+
+
