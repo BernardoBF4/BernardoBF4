@@ -6,4 +6,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BernardoBF4&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BernardoBF4&theme=dracula)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BernardoBF4&theme=dracula)
