@@ -4,6 +4,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArthurGasparin&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=BernardoBF4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurGasparin&theme=dracula)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BernardoBF4&theme=dracula)](https://git.io/streak-stats)
