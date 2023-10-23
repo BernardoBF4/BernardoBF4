@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1>
-  hey there
   <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="30px"/>
 </h1>
 
