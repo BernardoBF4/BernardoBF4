@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/bernardo-benini-fantin-329b681a0/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=#E1306C" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&color=#E1306C&logo=instagram&logoColor=#E1306C" alt="Instagram Badge"/>
   </a>
 </div>
 
