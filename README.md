@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>
-  <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="30px"/>
+  <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="30px height="40px"/>
 </h1>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
