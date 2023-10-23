@@ -16,8 +16,6 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF&langs_count=15&theme=tokyonight)]()
 
@@ -28,9 +26,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=BernardoBF4&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BernardoBF4&theme=dracula)
-
-<div>
-<a href="https://github.com/BernardoBF4">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?BernardoBF4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-</div>
