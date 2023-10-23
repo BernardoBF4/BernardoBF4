@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF&langs_count=15&theme=tokyonight)]()
