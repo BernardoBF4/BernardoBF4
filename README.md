@@ -17,7 +17,7 @@
 </div>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF&langs_count=10&theme=tokyonight)]()
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
 
