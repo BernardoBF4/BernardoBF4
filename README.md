@@ -4,14 +4,9 @@
   <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="30px" height="30px"/>
 </h1>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/bernardo-benini-fantin-329b681a0/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bernardo-benini-fantin-329b681a0/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&color=#E1306C&logo=instagram&logoColor=#E1306C" alt="Instagram Badge"/>
-  </a>
-</div>
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
 
