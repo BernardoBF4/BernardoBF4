@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/bernardo-benini-fantin-329b681a0/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/bernardo-benini-fantin-329b681a0/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BernardoBF4&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
