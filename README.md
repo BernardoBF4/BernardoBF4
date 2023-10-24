@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true&hide=c++)]()
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&count_private=true)
 
