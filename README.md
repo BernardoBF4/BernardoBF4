@@ -16,9 +16,9 @@
   </a>
 </div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true&hide=c++)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&count_private=true&hide=c++,objective-c)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BernardoBF4&theme=dracula)
 
