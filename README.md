@@ -18,7 +18,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BernardoBF4&count_private=true&theme=tokyonight&showicons=true)]()
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&count_private=true&hide=c-plus-plus,c-sharp,objective-c,java)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBF4&layout=compact&count_private=true&hide=c-plus-plus,c#,objective-c,java)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BernardoBF4&theme=dracula)
 
