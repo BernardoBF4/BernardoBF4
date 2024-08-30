@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>
-  <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="30px" height="30px"/>
+  <img src="https://media.tenor.com/K_qUEqHBncsAAAAC/pope-religious.gif" width="130px" height="130px"/>
 </h1>
 
 <div id="badges">
